@@ -23,17 +23,21 @@ It contains of
 
 Explore the heart of Food4U with our feature-packed second page, offering a wealth of resources to enhance your culinary journey.
 
-1) About Us:
-Dive into the story behind Food4U. Learn about our mission, values, and the passionate team dedicated to bringing you an innovative cooking platform. Discover the inspiration that led to the creation of this culinary companion.
-
-2)  Numerous Recipes:
+1) Numerous Recipes:
 Embark on a culinary adventure with a vast collection of recipes catering to every taste and dietary preference. From quick and easy meals for busy weekdays to indulgent treats for special occasions, Food4U has a recipe for every occasion.
 
-3) Mark Your Favorite Recipe:
+2) Mark Your Favorite Recipe:
 Personalize your experience by marking your favorite recipes. Easily revisit and recreate those special dishes that stole your heart. Food4U ensures that your cooking preferences are at the forefront of your experience.
 
-4) Note the Important:
+3) Note the Important:
 Keep track of essential details and tips with the "Note the Important" feature. Whether it's a substitution suggestion, a cooking hack, or a personal touch you want to add to a recipe, this feature allows you to create and store your culinary notes securely.
+
+4) Health Consciousness:
+Our platform goes beyond recipes, promoting health-conscious choices. Discover recipes tailored to specific health conditions and dietary requirements, empowering you to make informed and mindful choices for your well-being.
+
+5) Offline Support:
+We understand that connectivity isn't always guaranteed. Food4U ensures accessibility for all with robust offline support. Download your favorite recipes and cooking tips, and enjoy the convenience of offline access whenever and wherever you are.
+
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U/assets/83460032/1132ffee-b0b6-4185-898d-44f8dc91fc71)
 
