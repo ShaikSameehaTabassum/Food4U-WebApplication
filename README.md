@@ -1,5 +1,3 @@
-# Food4U
-
 # Food4U - Empowering Home Cooking
 
 Welcome to Food4U, a revolutionary web application designed to transform your home cooking experience. 
