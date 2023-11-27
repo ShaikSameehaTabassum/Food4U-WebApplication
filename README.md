@@ -52,7 +52,7 @@ Navigate through a diverse range of categories, from breakfast delights to savor
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U/assets/83460032/d30fe2b6-e2b6-4d35-804a-ccb3bde985a2)
 
-# Food4U - Cook with What You Have
+# Food4U - Cook With What You Have
 
 Introducing the "Find the Meal That Has Your Ingredients" feature on Food4U—an innovative way to make cooking at home convenient and efficient. This dynamic tool empowers you to create delicious meals using the ingredients you already have on hand.
 
