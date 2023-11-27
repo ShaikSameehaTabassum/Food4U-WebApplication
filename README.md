@@ -70,6 +70,22 @@ Whether you're a seasoned chef or a novice in the kitchen, Food4U's ingredient-b
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U-WebApplication/assets/83460032/45ed72b2-cd88-423c-ae81-d30454aadc9d)
 
+# Food4U - Cooking in Your Language
+
+Diversity is at the heart of Food4U, and we are excited to introduce our language support feature, making the culinary journey accessible to users worldwide. With "Cooking in Your Language," we ensure that everyone can enjoy the benefits of our innovative cooking platform, regardless of their preferred language.
+
+1. Multilingual Interface:
+Experience Food4U in a language that resonates with you. Our platform boasts a multilingual interface, allowing users to navigate through the app in their preferred language. Select from a range of supported languages to make your cooking experience truly personalized.
+
+2. Recipe Translations:
+No more language barriers when trying out new recipes! Food4U offers translations for each recipe, ensuring that you can follow along with ease, regardless of the recipe's original language. Explore global cuisines and expand your culinary skills effortlessly.
+
+3. Language Preferences:
+Customize your language preferences to receive tailored recommendations and content in the language of your choice. Food4U adapts to your preferences, providing a seamless and enjoyable experience for users from diverse linguistic backgrounds.
+
+4. Inclusive Cooking Community:
+Join an inclusive cooking community where language diversity is celebrated. Share your culinary creations, exchange tips, and connect with fellow food enthusiasts from around the world, all within the language you feel most comfortable in.
+
 ![image](https://github.com/ShaikSameehaTabassum/Food4U-WebApplication/assets/83460032/47d9eb44-3280-4a7f-8177-53d4664e0126)
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U-WebApplication/assets/83460032/2258eb9a-5c6b-45a4-9fc6-fe81f56b1c93)
