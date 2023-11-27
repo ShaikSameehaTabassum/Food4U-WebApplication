@@ -44,13 +44,29 @@ Keep track of essential details and tips with the "Note the Important" feature. 
 
 # Food4U - Discover Your Culinary Cravings
 
-Search by Keywords:
+1) Search by Keywords:
 Craving a specific dish or ingredient? Use our powerful search functionality to find recipes based on keywords. From comfort food classics to exotic cuisines, Food4U's extensive database ensures you'll discover the perfect recipe to satiate your cravings.
 
-Explore Categories:
+2) Explore Categories:
 Navigate through a diverse range of categories, from breakfast delights to savory dinners and indulgent desserts. Food4U makes it easy to explore and find recipes that suit your mood and occasion.
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U/assets/83460032/d30fe2b6-e2b6-4d35-804a-ccb3bde985a2)
+
+# Food4U - Cook with What You Have
+
+Introducing the "Find the Meal That Has Your Ingredients" feature on Food4U—an innovative way to make cooking at home convenient and efficient. This dynamic tool empowers you to create delicious meals using the ingredients you already have on hand.
+
+1. Ingredient-Based Search:
+Explore a new realm of culinary possibilities by searching for recipes based on the ingredients you have in your kitchen. Simply input the items you have, and let Food4U suggest mouthwatering recipes that match your available ingredients.
+
+2. Customize Your Preferences:
+Tailor your search further by customizing preferences such as dietary restrictions, cuisine styles, and cooking methods. Food4U ensures that the suggested recipes not only match your available ingredients but also align with your culinary preferences.
+
+3. Reduce Food Waste:
+Say goodbye to unused ingredients! This feature helps you make the most of what's in your kitchen, reducing food waste and promoting a sustainable approach to cooking.
+
+4. Cooking Made Easy:
+Whether you're a seasoned chef or a novice in the kitchen, Food4U's ingredient-based search simplifies the cooking process. Transform your everyday ingredients into extraordinary meals with step-by-step instructions and helpful tips.
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U-WebApplication/assets/83460032/45ed72b2-cd88-423c-ae81-d30454aadc9d)
 
