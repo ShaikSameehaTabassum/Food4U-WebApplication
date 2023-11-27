@@ -42,6 +42,8 @@ Keep track of essential details and tips with the "Note the Important" feature. 
 
 ![image](https://github.com/ShaikSameehaTabassum/Food4U/assets/83460032/1132ffee-b0b6-4185-898d-44f8dc91fc71)
 
+# Food4U - Discover Your Culinary Cravings
+
 Search by Keywords:
 Craving a specific dish or ingredient? Use our powerful search functionality to find recipes based on keywords. From comfort food classics to exotic cuisines, Food4U's extensive database ensures you'll discover the perfect recipe to satiate your cravings.
 
